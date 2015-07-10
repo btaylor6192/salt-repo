@@ -1,3 +1,3 @@
 dev:
-  'srv-dev*':
+  'srv-dev-web*':
     - vim
