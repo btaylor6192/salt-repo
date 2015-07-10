@@ -1,6 +1,6 @@
 base:
   - '*':
-    - basestate
+    - vim
 dev:
   - 'srv-dev-web*':
-      - webserver
+      - httpd
