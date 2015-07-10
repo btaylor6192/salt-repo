@@ -2,5 +2,5 @@ base:
   - '*':
     - vim
 dev:
-  - 'srv-dev-web*':
+  - 'srv-dev-web-02':
       - httpd
