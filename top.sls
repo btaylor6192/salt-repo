@@ -1,6 +1,6 @@
 base:
   - '*':
     - basestate
-webserver:
+dev:
   - 'srv-dev-web*':
       - webserver
