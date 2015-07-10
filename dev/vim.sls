@@ -1,3 +1,3 @@
-dev:
-  'srv-dev-web*':
-    - vim
+vim:
+  pkg:
+    - installed
