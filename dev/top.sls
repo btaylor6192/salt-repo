@@ -1,3 +1,7 @@
 base:
   '*':
-    - vim
+    - global
+
+dev:
+  '*web*':
+    - webserver
