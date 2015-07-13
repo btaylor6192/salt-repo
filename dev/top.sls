@@ -1,3 +1,4 @@
 dev:
-  '*web*':
+  '*dev-web*':
+    - common
     - webserver
